@@ -1,0 +1,23 @@
+{
+    "name": "nodejs-students-api",
+    "version": "1.0.0",
+    "description": "A simple API for managing students using Node.js and SQLite.",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": [
+      "node",
+      "api",
+      "sqlite",
+      "express"
+    ],
+    "author": "granit",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2",
+      "sqlite3": "^5.1.7"
+    }
+  }
+  
